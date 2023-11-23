@@ -33,5 +33,3 @@ pnpm dev       # starts local server for both frontend (NextJS) and backend (Nes
 ## Feedback
 
 If you have any feedback, please reach out to us at danialfacrudin@gmail.com
-
-# setup-monorepo
